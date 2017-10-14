@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508021765054">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="commands.css" crc="4193191577" ref="commands"/>
+    <file name="index.css" crc="3820911709" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commands"/>
+    <file name="museutils.js" crc="17924269" ref="index:commands"/>
+    <file name="whatinput.js" crc="86476730" ref="index:commands"/>
+    <file name="museconfig.js" crc="144853533" ref="index:commands"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:commands"/>
+    <file name="require.js" crc="3861931657" ref="index:commands"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u120-4.png" crc="4119513615" ref="index"/>
+  </folder>
+  <file name="index.html" crc="58906994" seo="true" mt="1508020441245" redirect="true"/>
+  <file name="commands.html" crc="394175136" seo="true" mt="1508020427783" redirect="false"/>
+</manifest>
