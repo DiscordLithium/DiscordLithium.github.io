@@ -1,8 +1,12 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508021765054">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508030728198">
+  <folder name="assets">
+    <file name="preview.gif" crc="141605403" seo="true" mt="1507670616000"/>
+    <file name="wiki-background.png" crc="47916384" seo="true" mt="1507669021000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="commands.css" crc="4193191577" ref="commands"/>
-    <file name="index.css" crc="3820911709" ref="index"/>
+    <file name="index.css" crc="264819675" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commands"/>
@@ -14,8 +18,19 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u120-4.png" crc="4119513615" ref="index"/>
+    <file name="u120-4.png" crc="4174908622" ref="index"/>
+    <file name="dark_bot_icon.png" crc="175100866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v8zdaqe-ryglmwfsabqh5a.jpg" crc="4232378773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="great.gif" crc="437082126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u476-4.png" crc="275932495" ref="index"/>
+    <file name="u498-4.png" crc="4152181395" ref="index"/>
   </folder>
-  <file name="index.html" crc="58906994" seo="true" mt="1508020441245" redirect="true"/>
+  <file name="index.html" crc="229510438" seo="true" mt="1508030682468" redirect="true"/>
   <file name="commands.html" crc="394175136" seo="true" mt="1508020427783" redirect="false"/>
 </manifest>
