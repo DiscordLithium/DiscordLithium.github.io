@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508043905689">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508050942193">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="commands.css" crc="4145690768" ref="commands"/>
     <file name="index.css" crc="3935175265" ref="index"/>
-    <file name="commands.css" crc="4193191577" ref="commands"/>
   </folder>
   <folder name="assets">
     <file name="preview.gif" crc="141605403" seo="true" mt="1507670616000"/>
@@ -15,9 +15,11 @@
     <file name="museconfig.js" crc="144853533" ref="index:commands"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:commands"/>
     <file name="require.js" crc="3861931657" ref="index:commands"/>
+    <file name="webpro.js" crc="416662029" ref="commands"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="commands"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:commands"/>
     <file name="dark_bot_icon.png" crc="175100866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -41,7 +43,8 @@
     <file name="2eb02ic-t4ab66as26ffta.jpg" crc="4085496846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u651-4.png" crc="4174908622" ref="commands"/>
   </folder>
-  <file name="index.html" crc="4156230988" seo="true" mt="1508043882572" redirect="true"/>
-  <file name="commands.html" crc="394175136" seo="true" mt="1508020427783" redirect="false"/>
+  <file name="index.html" crc="4139847781" seo="true" mt="1508050008862" redirect="true"/>
+  <file name="commands.html" crc="196422321" seo="true" mt="1508050786217" redirect="true"/>
 </manifest>
