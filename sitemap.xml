@@ -9,13 +9,13 @@
       <image:loc>http://example.com/images/dark_bot_icon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example.com/images/great.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://example.com/images/v8zdaqe-ryglmwfsabqh5a.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example.com/images/c7-bcgvmrjwtvwffsci6mq.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example.com/images/great.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example.com/images/cplknvcgrh_9gosy6o-ava-crop-u540.jpg</image:loc>
