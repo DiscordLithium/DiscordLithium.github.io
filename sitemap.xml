@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.com/index.html</loc>
-    <lastmod>2017-10-14</lastmod>
+    <lastmod>2017-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://example.com/images/dark_bot_icon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example.com/images/v8zdaqe-ryglmwfsabqh5a.jpg</image:loc>
+      <image:loc>http://example.com/images/great.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example.com/images/great.gif</image:loc>
+      <image:loc>http://example.com/images/v8zdaqe-ryglmwfsabqh5a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example.com/images/c7-bcgvmrjwtvwffsci6mq.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example.com/images/cplknvcgrh_9gosy6o-ava-crop-u540.jpg</image:loc>
     </image:image>
   </url>
   <url>
