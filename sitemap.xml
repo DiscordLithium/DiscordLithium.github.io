@@ -20,6 +20,9 @@
     <image:image>
       <image:loc>http://example.com/images/cplknvcgrh_9gosy6o-ava-crop-u540.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://example.com/images/2eb02ic-t4ab66as26ffta.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://example.com/commands.html</loc>

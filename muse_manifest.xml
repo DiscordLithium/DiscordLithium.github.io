@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508040333271">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1508043755193">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4244534203" ref="index"/>
+    <file name="index.css" crc="4105829788" ref="index"/>
     <file name="commands.css" crc="4193191577" ref="commands"/>
   </folder>
   <folder name="assets">
@@ -37,7 +37,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u553-4.png" crc="16958898" ref="index"/>
+    <file name="u576-4.png" crc="14519879" ref="index"/>
+    <file name="2eb02ic-t4ab66as26ffta.jpg" crc="4085496846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3976172757" seo="true" mt="1508040068654" redirect="true"/>
+  <file name="index.html" crc="15488118" seo="true" mt="1508043664504" redirect="true"/>
   <file name="commands.html" crc="394175136" seo="true" mt="1508020427783" redirect="false"/>
 </manifest>
